@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\AiStartupOs.Modules.PersonaEngine.Application.csproj" />
+    <ProjectReference Include="..\Contracts\AiStartupOs.Modules.PersonaEngine.Contracts.csproj" />
+    <ProjectReference Include="..\Infrastructure\AiStartupOs.Modules.PersonaEngine.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Web\AiStartupOs.BuildingBlocks.Web.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuildingBlocks\Web\AiStartupOs.BuildingBlocks.Web.csproj" />
+    <ProjectReference Include="..\SharedKernel\AiStartupOs.SharedKernel.csproj" />
+    <ProjectReference Include="..\Modules\Identity\Presentation\AiStartupOs.Modules.Identity.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\StartupIdeas\Presentation\AiStartupOs.Modules.StartupIdeas.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\ValidationEngine\Presentation\AiStartupOs.Modules.ValidationEngine.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\ResearchEngine\Presentation\AiStartupOs.Modules.ResearchEngine.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\PersonaEngine\Presentation\AiStartupOs.Modules.PersonaEngine.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\PricingEngine\Presentation\AiStartupOs.Modules.PricingEngine.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\RoadmapEngine\Presentation\AiStartupOs.Modules.RoadmapEngine.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\LandingPageGenerator\Presentation\AiStartupOs.Modules.LandingPageGenerator.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\FounderCopilot\Presentation\AiStartupOs.Modules.FounderCopilot.Presentation.csproj" />
+    <ProjectReference Include="..\Modules\Billing\Presentation\AiStartupOs.Modules.Billing.Presentation.csproj" />
+    <ProjectReference Include="..\BuildingBlocks\Application\AiStartupOs.BuildingBlocks.Application.csproj" />
+    <ProjectReference Include="..\BuildingBlocks\Messaging\AiStartupOs.BuildingBlocks.Messaging.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.NpgSql" Version="9.0.0" />
+    <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="9.0.0" />
+    <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="9.0.0" />
+    <PackageReference Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.15.3" />
+    <PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.15.3" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.15.2" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.Http" Version="1.15.1" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.Process" Version="0.5.0" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.Runtime" Version="1.12.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

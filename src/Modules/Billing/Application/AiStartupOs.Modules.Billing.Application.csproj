@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\AiStartupOs.Modules.Billing.Domain.csproj" />
+    <ProjectReference Include="..\Contracts\AiStartupOs.Modules.Billing.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Application\AiStartupOs.BuildingBlocks.Application.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Messaging\AiStartupOs.BuildingBlocks.Messaging.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,221 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Api/">
+    <Project Path="src/Api/AiStartupOs.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/" />
+  <Folder Name="/src/BuildingBlocks/Application/">
+    <Project Path="src/BuildingBlocks/Application/AiStartupOs.BuildingBlocks.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Domain/">
+    <Project Path="src/BuildingBlocks/Domain/AiStartupOs.BuildingBlocks.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Messaging/">
+    <Project Path="src/BuildingBlocks/Messaging/AiStartupOs.BuildingBlocks.Messaging.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Persistence/">
+    <Project Path="src/BuildingBlocks/Persistence/AiStartupOs.BuildingBlocks.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Web/">
+    <Project Path="src/BuildingBlocks/Web/AiStartupOs.BuildingBlocks.Web.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Billing/" />
+  <Folder Name="/src/Modules/Billing/Application/">
+    <Project Path="src/Modules/Billing/Application/AiStartupOs.Modules.Billing.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Billing/Contracts/">
+    <Project Path="src/Modules/Billing/Contracts/AiStartupOs.Modules.Billing.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Billing/Domain/">
+    <Project Path="src/Modules/Billing/Domain/AiStartupOs.Modules.Billing.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Billing/Infrastructure/">
+    <Project Path="src/Modules/Billing/Infrastructure/AiStartupOs.Modules.Billing.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Billing/Presentation/">
+    <Project Path="src/Modules/Billing/Presentation/AiStartupOs.Modules.Billing.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/FounderCopilot/" />
+  <Folder Name="/src/Modules/FounderCopilot/Application/">
+    <Project Path="src/Modules/FounderCopilot/Application/AiStartupOs.Modules.FounderCopilot.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/FounderCopilot/Contracts/">
+    <Project Path="src/Modules/FounderCopilot/Contracts/AiStartupOs.Modules.FounderCopilot.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/FounderCopilot/Domain/">
+    <Project Path="src/Modules/FounderCopilot/Domain/AiStartupOs.Modules.FounderCopilot.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/FounderCopilot/Infrastructure/">
+    <Project Path="src/Modules/FounderCopilot/Infrastructure/AiStartupOs.Modules.FounderCopilot.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/FounderCopilot/Presentation/">
+    <Project Path="src/Modules/FounderCopilot/Presentation/AiStartupOs.Modules.FounderCopilot.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/" />
+  <Folder Name="/src/Modules/Identity/Application/">
+    <Project Path="src/Modules/Identity/Application/AiStartupOs.Modules.Identity.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Contracts/">
+    <Project Path="src/Modules/Identity/Contracts/AiStartupOs.Modules.Identity.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Domain/">
+    <Project Path="src/Modules/Identity/Domain/AiStartupOs.Modules.Identity.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Infrastructure/">
+    <Project Path="src/Modules/Identity/Infrastructure/AiStartupOs.Modules.Identity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Presentation/">
+    <Project Path="src/Modules/Identity/Presentation/AiStartupOs.Modules.Identity.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/LandingPageGenerator/" />
+  <Folder Name="/src/Modules/LandingPageGenerator/Application/">
+    <Project Path="src/Modules/LandingPageGenerator/Application/AiStartupOs.Modules.LandingPageGenerator.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/LandingPageGenerator/Contracts/">
+    <Project Path="src/Modules/LandingPageGenerator/Contracts/AiStartupOs.Modules.LandingPageGenerator.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/LandingPageGenerator/Domain/">
+    <Project Path="src/Modules/LandingPageGenerator/Domain/AiStartupOs.Modules.LandingPageGenerator.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/LandingPageGenerator/Infrastructure/">
+    <Project Path="src/Modules/LandingPageGenerator/Infrastructure/AiStartupOs.Modules.LandingPageGenerator.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/LandingPageGenerator/Presentation/">
+    <Project Path="src/Modules/LandingPageGenerator/Presentation/AiStartupOs.Modules.LandingPageGenerator.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PersonaEngine/" />
+  <Folder Name="/src/Modules/PersonaEngine/Application/">
+    <Project Path="src/Modules/PersonaEngine/Application/AiStartupOs.Modules.PersonaEngine.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PersonaEngine/Contracts/">
+    <Project Path="src/Modules/PersonaEngine/Contracts/AiStartupOs.Modules.PersonaEngine.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PersonaEngine/Domain/">
+    <Project Path="src/Modules/PersonaEngine/Domain/AiStartupOs.Modules.PersonaEngine.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PersonaEngine/Infrastructure/">
+    <Project Path="src/Modules/PersonaEngine/Infrastructure/AiStartupOs.Modules.PersonaEngine.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PersonaEngine/Presentation/">
+    <Project Path="src/Modules/PersonaEngine/Presentation/AiStartupOs.Modules.PersonaEngine.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PricingEngine/" />
+  <Folder Name="/src/Modules/PricingEngine/Application/">
+    <Project Path="src/Modules/PricingEngine/Application/AiStartupOs.Modules.PricingEngine.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PricingEngine/Contracts/">
+    <Project Path="src/Modules/PricingEngine/Contracts/AiStartupOs.Modules.PricingEngine.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PricingEngine/Domain/">
+    <Project Path="src/Modules/PricingEngine/Domain/AiStartupOs.Modules.PricingEngine.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PricingEngine/Infrastructure/">
+    <Project Path="src/Modules/PricingEngine/Infrastructure/AiStartupOs.Modules.PricingEngine.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/PricingEngine/Presentation/">
+    <Project Path="src/Modules/PricingEngine/Presentation/AiStartupOs.Modules.PricingEngine.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ResearchEngine/" />
+  <Folder Name="/src/Modules/ResearchEngine/Application/">
+    <Project Path="src/Modules/ResearchEngine/Application/AiStartupOs.Modules.ResearchEngine.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ResearchEngine/Contracts/">
+    <Project Path="src/Modules/ResearchEngine/Contracts/AiStartupOs.Modules.ResearchEngine.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ResearchEngine/Domain/">
+    <Project Path="src/Modules/ResearchEngine/Domain/AiStartupOs.Modules.ResearchEngine.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ResearchEngine/Infrastructure/">
+    <Project Path="src/Modules/ResearchEngine/Infrastructure/AiStartupOs.Modules.ResearchEngine.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ResearchEngine/Presentation/">
+    <Project Path="src/Modules/ResearchEngine/Presentation/AiStartupOs.Modules.ResearchEngine.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/RoadmapEngine/" />
+  <Folder Name="/src/Modules/RoadmapEngine/Application/">
+    <Project Path="src/Modules/RoadmapEngine/Application/AiStartupOs.Modules.RoadmapEngine.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/RoadmapEngine/Contracts/">
+    <Project Path="src/Modules/RoadmapEngine/Contracts/AiStartupOs.Modules.RoadmapEngine.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/RoadmapEngine/Domain/">
+    <Project Path="src/Modules/RoadmapEngine/Domain/AiStartupOs.Modules.RoadmapEngine.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/RoadmapEngine/Infrastructure/">
+    <Project Path="src/Modules/RoadmapEngine/Infrastructure/AiStartupOs.Modules.RoadmapEngine.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/RoadmapEngine/Presentation/">
+    <Project Path="src/Modules/RoadmapEngine/Presentation/AiStartupOs.Modules.RoadmapEngine.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/StartupIdeas/" />
+  <Folder Name="/src/Modules/StartupIdeas/Application/">
+    <Project Path="src/Modules/StartupIdeas/Application/AiStartupOs.Modules.StartupIdeas.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/StartupIdeas/Contracts/">
+    <Project Path="src/Modules/StartupIdeas/Contracts/AiStartupOs.Modules.StartupIdeas.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/StartupIdeas/Domain/">
+    <Project Path="src/Modules/StartupIdeas/Domain/AiStartupOs.Modules.StartupIdeas.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/StartupIdeas/Infrastructure/">
+    <Project Path="src/Modules/StartupIdeas/Infrastructure/AiStartupOs.Modules.StartupIdeas.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/StartupIdeas/Presentation/">
+    <Project Path="src/Modules/StartupIdeas/Presentation/AiStartupOs.Modules.StartupIdeas.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ValidationEngine/" />
+  <Folder Name="/src/Modules/ValidationEngine/Application/">
+    <Project Path="src/Modules/ValidationEngine/Application/AiStartupOs.Modules.ValidationEngine.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ValidationEngine/Contracts/">
+    <Project Path="src/Modules/ValidationEngine/Contracts/AiStartupOs.Modules.ValidationEngine.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ValidationEngine/Domain/">
+    <Project Path="src/Modules/ValidationEngine/Domain/AiStartupOs.Modules.ValidationEngine.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ValidationEngine/Infrastructure/">
+    <Project Path="src/Modules/ValidationEngine/Infrastructure/AiStartupOs.Modules.ValidationEngine.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/ValidationEngine/Presentation/">
+    <Project Path="src/Modules/ValidationEngine/Presentation/AiStartupOs.Modules.ValidationEngine.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/SharedKernel/">
+    <Project Path="src/SharedKernel/AiStartupOs.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/Api.Tests/">
+    <Project Path="tests/Api.Tests/AiStartupOs.Api.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/" />
+  <Folder Name="/tests/Modules/Billing.Tests/">
+    <Project Path="tests/Modules/Billing.Tests/AiStartupOs.Modules.Billing.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/FounderCopilot.Tests/">
+    <Project Path="tests/Modules/FounderCopilot.Tests/AiStartupOs.Modules.FounderCopilot.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/Identity.Tests/">
+    <Project Path="tests/Modules/Identity.Tests/AiStartupOs.Modules.Identity.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/LandingPageGenerator.Tests/">
+    <Project Path="tests/Modules/LandingPageGenerator.Tests/AiStartupOs.Modules.LandingPageGenerator.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/PersonaEngine.Tests/">
+    <Project Path="tests/Modules/PersonaEngine.Tests/AiStartupOs.Modules.PersonaEngine.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/PricingEngine.Tests/">
+    <Project Path="tests/Modules/PricingEngine.Tests/AiStartupOs.Modules.PricingEngine.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/ResearchEngine.Tests/">
+    <Project Path="tests/Modules/ResearchEngine.Tests/AiStartupOs.Modules.ResearchEngine.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/RoadmapEngine.Tests/">
+    <Project Path="tests/Modules/RoadmapEngine.Tests/AiStartupOs.Modules.RoadmapEngine.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/StartupIdeas.Tests/">
+    <Project Path="tests/Modules/StartupIdeas.Tests/AiStartupOs.Modules.StartupIdeas.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Modules/ValidationEngine.Tests/">
+    <Project Path="tests/Modules/ValidationEngine.Tests/AiStartupOs.Modules.ValidationEngine.Tests.csproj" />
+  </Folder>
+</Solution>

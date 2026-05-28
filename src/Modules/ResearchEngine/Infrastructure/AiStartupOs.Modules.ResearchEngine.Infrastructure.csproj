@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\AiStartupOs.Modules.ResearchEngine.Application.csproj" />
+    <ProjectReference Include="..\Domain\AiStartupOs.Modules.ResearchEngine.Domain.csproj" />
+    <ProjectReference Include="..\Contracts\AiStartupOs.Modules.ResearchEngine.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Persistence\AiStartupOs.BuildingBlocks.Persistence.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Messaging\AiStartupOs.BuildingBlocks.Messaging.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
